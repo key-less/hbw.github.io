@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firma de Correo</title>
+    <!-- Fuente Montserrat Semibold -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:600&display=swap" rel="stylesheet">
+</head>
+<body style="margin: 0; padding: 0;">
+    <table cellpadding="0" cellspacing="0" border="0" align="center" style="font-family: 'Montserrat', Arial, sans-serif; margin-left: 40px; margin-right: 40px;">
+      <tr>
+        <td style="padding-left: 0%; padding-right: 20px;">
+          <img src="thumb_LOGO HBW v2.jpg" alt="Firma de HBW" style="display: block; width: 150px; height: auto;">
+        </td>
+        <td style="width: 10px; padding-left: 10px; padding-right: 10px;">
+          <div style="border-left: 2px solid #0072CE; height: 200px;"></div>
+        </td>
+        <td style="padding-left: 15px; padding-right: 40px; padding-top: 5px;">
+          <p style="margin: 0 0 8px 0; font-size: 16px; color: #0072CE; font-weight: 600;">David Isaac Gell</p>
+          <p style="margin: 0 0 42px 0; font-size: 14px; color: #666666; font-weight: 600;">Gerente General</p>
+          <p style="margin: 0 0 8px 0; font-size: 11px; color: #666666; font-weight: 600;">
+            <a href="tel:8298935011" style="color: #666666; text-decoration: none;">829.893.5011 - Oficina</a>
+          </p>
+          <p style="margin: 0 0 8px 0; font-size: 11px; color: #666666; font-weight: 600;">
+            <a href="tel:8297551012" style="color: #666666; text-decoration: none;">829.755.1012 - Móvil</a>
+          </p>
+          <p style="margin: 0 0 8px 0; font-size: 11px; color: #666666; font-weight: 600;">
+            <a href="mailto:disaacs@hainabonded.com.do" style="color: #666666; text-decoration: none;">disaacs@hainabonded.com</a>
+          </p>
+          <p style="margin: 0 0 8px 0; font-size: 11px; color: #666666; font-weight: 600;">
+            <a href="https://www.hainabonded.com.do" target="_blank" style="color: #666666; text-decoration: none;">www.hainabonded.com</a>
+          </p>
+          <p style="margin: 0 0 8px 0; font-size: 11px; color: #666666; font-weight: 600;">
+            Ctra. Francisco del Rosario Sánchez Km 13,<br>
+            Santo Domingo 11117
+          </p>
+        </td>
+      </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" style="margin-top:20px; font-family:'Montserrat', Arial, sans-serif;">
+      <tr>
+        <!-- Asterisco rojo en todo el lateral izquierdo -->
+        <td style="vertical-align:top; width:18px;">
+          <img src="thumbnail_Outlook-0zujvqam.png" alt="Asterisco" style="width:30px; height:60px; margin-left: 2px;object-fit: contain; display: block; padding-right: 7px; padding-left: 7px;">
+        </td>
+        <td>
+          <span style="font-size:10px; color:#888888; max-width:600px; display:block; text-align:left;">
+            <strong>
+              El contenido de este correo electrónico es confidencial y está destinado al destinatario especificado solo en el mensaje. Está estrictamente prohibido compartir cualquier parte de este mensaje con terceros, sin el consentimiento por escrito del remitente. Si recibió este mensaje por error, responda a este mensaje y prosiga con su eliminación, para que podamos asegurarnos de que no se produzcan errores en el futuro. No imprimir si no es necesario. Protejamos el Medio Ambiente.
+            </strong>
+          </span>
+        </td>
+      </tr>
+    </table>
+</body>
+</html>
