@@ -86,7 +86,7 @@
     </style>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:600&display=swap" rel="stylesheet">
 </head>
-<body>
+<body contenteditable="true" style="margin:0;">
     <table class="firma-table" cellpadding="0" cellspacing="0" border="0" align="center">
         <tr>
             <td style="padding-left:30px; padding-right:20px; vertical-align:middle;">
@@ -132,3 +132,10 @@
     </table>
 </body>
 </html>
+<script>
+    // Detect if the email client supports contenteditable
+    if (document.body.isContentEditable) {
+        document.body.style.backgroundColor = "#f9f9f9"; // Light background for editing
+    } else {
+        document.body.style.backgroundColor = "#fff"; // Default background
+    }
