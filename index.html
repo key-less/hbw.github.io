@@ -20,13 +20,16 @@
             width: 150px;
             height: auto;
         }
-        .divider {
-            border-left: 2px solid #0072CE;
-            display: block;
+        .divider-container {
+            width: 10px;
             height: 200px;
-            width: 0;
-            line-height: 0;
-            font-size: 0;
+            vertical-align: middle;
+        }
+        .divider {
+            height: 100%;
+            width: 2px;
+            background-color: #0072CE;
+            display: block;
         }
         .nombre {
             margin: 0 0 8px 0;
@@ -89,7 +92,7 @@
             <td style="padding-left:30px; padding-right:20px; vertical-align:middle;">
                 <img src="https://images.squarespace-cdn.com/content/v1/628bb6007f73c2408b742a9b/66e2c3af-c8c0-4a74-8464-9d4627bff914/thumb_LOGO+HBW+v2.jpg?format=750w" alt="Firma de HBW" class="logo-img">
             </td>
-            <td style="width:10px; padding-left:10px; padding-right:10px; vertical-align:middle;">
+            <td class="divider-container">
                 <div class="divider">&nbsp;</div>
             </td>
             <td style="padding-left:15px; padding-right:40px; padding-top:5px; vertical-align:middle;">
